@@ -4,7 +4,7 @@
 
 ![img](images/run_sim.png)
 
-## Download simulated PDB file
+## Download the simulated PDB file
 * Click on `Output Files` -> `Download`
 
 ![img](images/pdb_download.png)
