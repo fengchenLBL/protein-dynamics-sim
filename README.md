@@ -12,7 +12,7 @@
 ## Open PDB with [ChimeraX](https://www.cgl.ucsf.edu/chimerax/download.html)
 ![img](images/pdb_view.png)
 
-## Creates a trajectory using `morph` command
+## Create a trajectory using `morph` command
 * For example:
 ```
 morph #1 frames 60
