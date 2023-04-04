@@ -10,4 +10,4 @@
 ```
 morph #1 frames 60
 ```
-![img](images/pdb_trajectory.png)
+![img](images/pdb_trajectory.gif)
